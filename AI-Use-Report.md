@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name:Justin ventura
+- Week:6
+- Lab:1
+- Date:10/8/26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [ x] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -44,7 +44,7 @@ Response:
 
 Describe one concept or programming skill you understand better after completing the lab.
 
-Response:
+Response:use of if elif else statments and adding variables together
 
 ## Summary
 
